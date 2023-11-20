@@ -14,14 +14,14 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:elastic/elasticsearch-php.git"
+            "url": "git@github.com:ScientaNL/elasticsearch-php.git"
         }
     ],
     "require": {
         "php": "^7.0||^8.0",
         "ext-json": "*",
         "psr/log": "^1|^2",
-        "elasticsearch/elasticsearch": "6.8.x-dev"
+        "elasticsearch/elasticsearch": "6.8.3"
     },
     "require-dev": {
         "aws/aws-sdk-php": "~3.0",
