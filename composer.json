@@ -44,5 +44,10 @@
         "psr-4": {
             "Elastica\\Test\\": "test/Elastica/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-6.8": "6.8.x-dev"
+        }
     }
 }
